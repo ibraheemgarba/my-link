@@ -1,7 +1,7 @@
 /* Website Style Sheet */
 /* this is for the home page */
 body{
-	background-image: url("C:/Desktop/Labs/Lab_1/Images/back2.jpg");
+	background-image: url("back2.jpg");
 }
 #all{
 	width: 800px;
@@ -144,7 +144,7 @@ u:hover{
 .profile_pic{
 	width:250px;
 	height:200px;
-	background-image: url("C:/Users/USER/Downloads/lala.webp");
+	background-image: url("lala.webp");
 	position:relative;
 	background-repeat:no-repeat;
 	background-position:center top;
